@@ -17,13 +17,13 @@ jsproxy_config({
       lines: {
         'calm-snowflake-504d.029sina.workers.dev': 1,
         'crimson-snow-3307.029sina.workers.dev': 2,
-      }
+      },
    },
     'demo-sg': {
       label: 'patient-雅虎节点',
       lines: {
         'patient-resonance-d097.029.workers.dev': 1,
-      }
+      },
     },
      'cfworker': {
       label: '雅虎-restless.029',
